@@ -1,7 +1,7 @@
 import { NextPage } from 'next';
 
 import Button from '@/components/common/parts/Button';
-import { useDisplayFeedback } from '@/hooks/useDisplayfeedBack';
+import { useDisplayFeedback } from '@/hooks/useDisplayFeedBack';
 
 const Page: NextPage = () => {
   const { inputValue, feedbackList, handleInput, handleSubmit } = useDisplayFeedback();
