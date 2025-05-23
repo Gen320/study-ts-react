@@ -34,5 +34,6 @@
       "iconColor": "#05e45b"
     }
   },
-  "cSpell.words": ["datepicker", "NEXTAUTH", "signin", "signup", "sozai"]
+  "cSpell.words": ["datepicker", "NEXTAUTH", "signin", "signup", "sozai"],
+  "editor.mouseWheelZoom": true
 }
